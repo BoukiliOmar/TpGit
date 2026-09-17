@@ -1,5 +1,5 @@
-banana 
 peach 
-strawberry 
-Melon 
-grape 
+orange
+strawberry
+melon
+coconut
