@@ -3,3 +3,7 @@ orange
 strawberry
 melon
 coconut
+strawberry 
+Melon 
+grape 
+WaterMelon 
